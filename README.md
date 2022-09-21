@@ -26,5 +26,5 @@ cd /root/whaticket
 ```
 
 ```bash
-sudo /root/whaticket
+sudo /root/whaticket/whaticket
 ```
